@@ -59,7 +59,7 @@ def par_impar(par, impar):
 par_impar(par, impar)
 print (f'os numeros pares são: {par}, os numeros impares são: {impar}. ')
 
-#4
+# 4
 
 produtos_venda = []
 
